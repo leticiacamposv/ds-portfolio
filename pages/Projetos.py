@@ -86,4 +86,9 @@ st.markdown("""<style>body {
             
 </style>""", unsafe_allow_html=True)
 
-st.markdown('<div class="button"><a style="color: white;text-decoration: none;" href="http://google.com">Credit risk prediction</a></div>', unsafe_allow_html=True)
+st.markdown('<div class="button"><a style="color: white;text-decoration: none;" href="https://github.com/leticiacamposv/exemplo-risco-credito">Credit risk prediction</a></div>', unsafe_allow_html=True)
+st.markdown('<div class="button"><a style="color: white;text-decoration: none;" href="https://github.com/leticiacamposv/neural-network-raw">Neural Network from Scratch</a></div>', unsafe_allow_html=True)
+st.markdown('<div class="button"><a style="color: white;text-decoration: none;" href="https://github.com/leticiacamposv/data-wrangling-exercise">Data Wrangling Exercise</a></div>', unsafe_allow_html=True)
+st.markdown('<div class="button"><a style="color: white;text-decoration: none;" href="https://github.com/leticiacamposv/star_wars_sql_challenge">Star Wars SQL Challenge</a></div>', unsafe_allow_html=True)
+st.markdown('<div class="button"><a style="color: white;text-decoration: none;" href="https://github.com/leticiacamposv/pacote-desafios-pythonicos">Pacote de Desafios Pythonicos</a></div>', unsafe_allow_html=True)
+st.markdown('<div class="button"><a style="color: white;text-decoration: none;" href="https://github.com/leticiacamposv/hardware-test-ml">ML Hardware Testing</a></div>', unsafe_allow_html=True)
