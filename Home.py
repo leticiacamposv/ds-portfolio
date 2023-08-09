@@ -31,7 +31,8 @@ def main():
         with col1:
             st.title('Sobre mim')  
             st.write('')
-            st.write('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum dui ut suscipit consequat. Sed vitae magna a dui lobortis laoreet. Etiam quis tortor luctus, sodales lacus quis, suscipit risus. Etiam erat purus, pellentesque et erat a, tempus semper nibh. Vivamus ut suscipit justo, in fringilla ipsum. Aenean id sapien semper, rutrum turpis vitae, egestas mi. Suspendisse fermentum tempus nisi, ut tincidunt velit congue nec. Vestibulum cursus et tellus venenatis euismod. Aenean cursus finibus dui, eget efficitur enim malesuada at. Phasellus et semper urna. Aliquam malesuada accumsan lacus. Donec ullamcorper id nulla hendrerit placerat. Suspendisse est tortor, tincidunt ac vehicula sit amet, pretium sit amet urna. Nunc sit amet cursus felis, eu porta tortor.')
+
+            st.write('Olá! Sou Data Scientist e Engenheira de Machine Learning com mais de 2 anos de experiência em produção e monitoramento de modelos preditivos e análises usando estatística avançada. Meu objetivo é ajudar as empresas na exploração de tendências para tomar melhores decisões de negócio. Apaixonada com dados, tenho sede por aprendizado contínuo e uma mente muito curiosa e criativa. Como especialista em deploy de modelos em nuvem, minhas produções atuam com melhor escalabilidade, confiabilidade e segurança, providas pelos serviços de cloud como GCP e AWS. Além disso, ofereço sempre a melhor solução possível por meio de testes extensivos, controle e bom tratamento de grandes escalas de dados.')
             
 
         with col2:
