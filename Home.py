@@ -37,11 +37,6 @@ def main():
 
         with col2:
             st_lottie('https://lottie.host/a4df3066-0865-487d-823d-6b84b0bac650/D5OvF5jMMG.json', key="dsgirl", height=400)
-
-
-    
-    # with st.echo():
-    #     st_lottie("https://assets5.lottiefiles.com/packages/lf20_V9t630.json")
     
 if __name__ == "__main__":
     st.set_page_config(page_title="Leticia Portfólio", page_icon="🎈", layout="wide")

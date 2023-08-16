@@ -1,25 +1,5 @@
 import streamlit as st
 
-# st.write("Nome:")
-# st.write("Localização:")
-# st.write("Email:")
-# st.write("Telefone:")
-
-# st.divider()
-
-# st.markdown("# Tecnologias")
-
-# st.divider()
-
-# st.markdown("# Softskills")
-
-# st.divider()
-
-# st.markdown("# Idiomas")
-
-# st.divider()
-
-# st.markdown("# Experiências")
 
 st.markdown("""# Leticia Campos Valente
 

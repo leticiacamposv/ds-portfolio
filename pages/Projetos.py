@@ -3,56 +3,6 @@ import webbrowser
 st.set_page_config(page_title="Projetos", page_icon="🎈", layout="wide")
 
 st.markdown("# Clique em um projeto para ser redirecionado ao github")
-# st.markdown("""<style>div.stButton>button {
-#   align-items: center;
-#   height: 200px;
-#   width: 200px;          
-#   background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
-#   border: 0;
-#   border-radius: 8px;
-#   box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
-#   box-sizing: border-box;
-#   color: #FFFFFF;
-#   display: flex;
-#   font-family: Phantomsans, sans-serif;
-#   font-size: 20px;
-#   justify-content: center;
-#   line-height: 1em;
-#   max-width: 100%;
-#   min-width: 140px;
-#   padding: 3px;
-#   text-decoration: none;
-#   user-select: none;
-#   -webkit-user-select: none;
-#   touch-action: manipulation;
-#   white-space: nowrap;
-#   cursor: pointer;
-# }
-
-# div.stButton > button:active,
-# div.stButton > button:hover {
-#   outline: 0;
-# }
-
-# div.stButton > button span {
-#   background-color: rgb(5, 6, 45);
-#   padding: 16px 24px;
-#   border-radius: 6px;
-#   width: 100%;
-#   height: 100%;
-#   transition: 300ms;
-# }
-
-# div.stButton > button:hover span {
-#   background: none;
-# }
-
-# @media (min-width: 768px) {
-#     div.stButton > button {
-#     font-size: 24px;
-#     min-width: 196px;
-#   }
-# }</style>""", unsafe_allow_html=True)
 
 st.markdown("""<style>body {
   display: flex;
